@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jingu-common" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-pojo" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-sellergoods-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/jingu-shop-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="E:/dtd-schema/dubbo.xsd" />
+    <resource url="https://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/9f766ca_spring-context.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
